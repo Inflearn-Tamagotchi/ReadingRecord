@@ -13,7 +13,7 @@
 - 모든 스터디원은 (주말 내로) **금주 스터디 내용을 정리**하여 팀원들과 공유할 것.
 - 평일 동안 등록된 이슈와 각자 스터디한 내용을 기반으로 **월요일 온라인**으로 토론.
 
-<img width="936" alt="스크린샷 2024-07-22 22 39 14" src="https://github.com/user-attachments/assets/f9bc72dc-4fc4-40c9-9ac5-0a67f3a5bf83">
+<img width="792" alt="스크린샷 2024-07-22 22 44 30" src="https://github.com/user-attachments/assets/7095a248-95fc-4d0e-be50-3db6a0ab3954">
 
 <br>
 
